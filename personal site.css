@@ -43,6 +43,9 @@ li,p{
  list-style-type: square;
  text-transform: capitalize;
 }
+p{
+    
+}
 td{
     color:#656270 ;
     FONT-FAMILY: "Helvetica Neue", Helvetica, Arial, sans-serif;
